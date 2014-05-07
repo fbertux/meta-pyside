@@ -1,4 +1,4 @@
-Fork from github.com/svolpe/meta-pyside
+Fork from svolpe/meta-pyside
 =======================================
 
 PySide Yocto Layer
