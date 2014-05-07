@@ -1,4 +1,6 @@
-pyside-oe-layer
-===============
+Fork from github.com/svolpe/meta-pyside
+=======================================
 
-Pyside layer for OpenEmbedded
+PySide Yocto Layer
+------------------
+This is a layer for Yocto Project to work with Qt Embedded.
