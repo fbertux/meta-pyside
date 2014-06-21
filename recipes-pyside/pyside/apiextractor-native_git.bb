@@ -6,7 +6,7 @@ PR = "r0"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://COPYING;md5=34337af480a8c452bfafe22a78fa20cb"
 
-SRC_URI = "git://gitorious.org/pyside/apiextractor.git;protocol=git;tag=744d018dd857543f93f3961cf9e7f70adcc7ce65"
+SRC_URI = "git://gitorious.org/pyside/apiextractor.git;protocol=git;rev=master"
 S = "${WORKDIR}/git"
 
 SRC_URI[md5sum] = "946e8988e5f4c4bd62e774407fa80fee"

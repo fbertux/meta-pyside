@@ -8,7 +8,7 @@ PR = "r0"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://COPYING;md5=34337af480a8c452bfafe22a78fa20cb"
 
-SRC_URI = "git://gitorious.org/pyside/shiboken.git;protocol=git;tag=eb293c2839cfbc726f0e085e1435c94b6f6561f9 \
+SRC_URI = "git://gitorious.org/pyside/shiboken.git;protocol=git;rev=master \
 			  file://MacroPushRequiredVars.cmake \
 			  file://FindQt4.cmake \
 			  file://rename-shiboken-pkg.patch \

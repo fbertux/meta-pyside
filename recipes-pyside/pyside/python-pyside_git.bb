@@ -13,7 +13,7 @@ RDEPENDS_${PN} = " \
  python-lang \
 "
 
-SRC_URI = "git://gitorious.org/pyside/pyside.git;protocol=git;tag=6df4b307c5aec758ad954ab8717f5e85b44e2ae5 \
+SRC_URI = "git://gitorious.org/pyside/pyside.git;protocol=git;rev=master \
 			  file://support-qws.patch \
 	 			file://MacroPushRequiredVars.cmake \
 				file://FindQt4.cmake \

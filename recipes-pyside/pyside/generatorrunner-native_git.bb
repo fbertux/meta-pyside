@@ -8,7 +8,7 @@ PR = "r0"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://COPYING;md5=34337af480a8c452bfafe22a78fa20cb"
 
-SRC_URI = "git://gitorious.org/pyside/generatorrunner.git;protocol=git;tag=bfffaa4ef8cba22ac30dd5aa597e8df1d6eda971"
+SRC_URI = "git://gitorious.org/pyside/generatorrunner.git;protocol=git;rev=master"
 S = "${WORKDIR}/git"
 
 SRC_URI[md5sum] = "946e8988e5f4c4bd62e774407fa80fee"
